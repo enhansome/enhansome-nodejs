@@ -1631,7 +1631,7 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T00:30:34Z",
+                "last_commit": "2026-08-24T13:47:22Z",
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18460
@@ -2544,7 +2544,7 @@
                 "archived": false,
                 "id": 70107786,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:41:28Z",
+                "last_commit": "2026-08-24T13:47:45Z",
                 "owner": "vercel",
                 "repo": "next.js",
                 "stars": 141912
@@ -2562,7 +2562,7 @@
                 "last_commit": "2026-08-24T11:17:39Z",
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76446
+                "stars": 76447
               }
             },
             {
@@ -2589,7 +2589,7 @@
                 "archived": false,
                 "id": 71995937,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T12:24:54Z",
+                "last_commit": "2026-08-24T13:45:38Z",
                 "owner": "nuxt",
                 "repo": "nuxt",
                 "stars": 60789
@@ -2652,7 +2652,7 @@
                 "last_commit": "2026-08-24T08:44:48Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31917
+                "stars": 31919
               }
             },
             {
@@ -5351,7 +5351,7 @@
                     "archived": false,
                     "id": 192925833,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T13:39:17Z",
+                    "last_commit": "2026-08-24T13:47:51Z",
                     "owner": "prisma",
                     "repo": "prisma",
                     "stars": 47563
@@ -7129,7 +7129,7 @@
                 "archived": false,
                 "id": 43441403,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:37:20Z",
+                "last_commit": "2026-08-24T13:47:15Z",
                 "owner": "strapi",
                 "repo": "strapi",
                 "stars": 73010
@@ -7248,7 +7248,7 @@
                 "archived": false,
                 "id": 9852918,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:43:43Z",
+                "last_commit": "2026-08-24T13:46:54Z",
                 "owner": "TryGhost",
                 "repo": "Ghost",
                 "stars": 55051
@@ -8285,7 +8285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:43:58.236Z",
+    "last_updated": "2026-08-24T13:48:28.880Z",
     "original_repository": "sindresorhus/awesome-nodejs",
     "original_repository_id": 21737266,
     "original_repository_sha": "cf153d49f0d2b281bdc512b08f62ef0fb177a6dc",

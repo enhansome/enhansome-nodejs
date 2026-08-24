@@ -269,7 +269,7 @@
 * [Ink](https://github.com/vadimdemedes/ink) ⭐ 39,724 | 🐛 38 | 🌐 TypeScript | 📅 2026-08-12 - React for interactive command-line apps.
 * [chalk](https://github.com/chalk/chalk) ⭐ 23,308 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-26 - Terminal string styling done right.
 * [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) ⭐ 21,616 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-20 - Interactive command-line prompt.
-* [Bit](https://github.com/teambit/bit) ⭐ 18,460 | 🐛 90 | 🌐 TypeScript | 📅 2026-08-22 - Create, maintain, find and use small modules and components across repositories.
+* [Bit](https://github.com/teambit/bit) ⭐ 18,460 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-24 - Create, maintain, find and use small modules and components across repositories.
 * [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,399 | 🐛 105 | 🌐 JavaScript | 📅 2026-08-12 - Portable Unix shell commands.
 * [blessed](https://github.com/chjj/blessed) ⭐ 11,882 | 🐛 256 | 🌐 JavaScript | 📅 2024-03-22 - Curses-like library.
 * [yargs](https://github.com/yargs/yargs) ⭐ 11,515 | 🐛 215 | 🌐 JavaScript | 📅 2026-08-07 - Command-line parser that automatically generates an elegant user-interface.
@@ -308,7 +308,7 @@
 
 ### Build tools
 
-* [Vite](https://github.com/vitejs/vite) ⭐ 82,506 | 🐛 749 | 🌐 TypeScript | 📅 2026-08-24 - Front-end build tool with hot module replacement and static asset bundling.
+* [Vite](https://github.com/vitejs/vite) ⭐ 82,506 | 🐛 750 | 🌐 TypeScript | 📅 2026-08-24 - Front-end build tool with hot module replacement and static asset bundling.
 * [webpack](https://github.com/webpack/webpack) ⭐ 65,971 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-23 - Packs modules and assets for the browser.
 * [parcel](https://github.com/parcel-bundler/parcel) ⭐ 44,019 | 🐛 602 | 🌐 JavaScript | 📅 2026-08-22 - Blazing fast, zero config web app bundler.
 * [gulp](https://github.com/gulpjs/gulp) ⭐ 32,947 | 🐛 34 | 🌐 JavaScript | 📅 2026-02-09 - Streaming and fast build system that favors code over config.
@@ -341,13 +341,13 @@
 ### Web frameworks
 
 * [Next.js](https://github.com/vercel/next.js) ⭐ 141,912 | 🐛 3,921 | 🌐 JavaScript | 📅 2026-08-24 - Minimalistic framework for server-rendered universal JavaScript web apps.
-* [Nest](https://github.com/nestjs/nest) ⭐ 76,446 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-24 - Angular-inspired framework for building efficient and scalable server-side apps.
+* [Nest](https://github.com/nestjs/nest) ⭐ 76,447 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-24 - Angular-inspired framework for building efficient and scalable server-side apps.
 * [Express](https://github.com/expressjs/express) ⭐ 69,393 | 🐛 224 | 🌐 JavaScript | 📅 2026-08-22 - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 * [Nuxt.js](https://github.com/nuxt/nuxt.js) ⭐ 60,789 | 🐛 541 | 🌐 TypeScript | 📅 2026-08-24 - Minimalistic framework for server-rendered Vue.js apps.
 * [Meteor](https://github.com/meteor/meteor) ⭐ 44,812 | 🐛 414 | 🌐 JavaScript | 📅 2026-08-24 - An ultra-simple, database-everywhere, data-on-the-wire, pure-JavaScript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor) ⭐ 1,412 | 🐛 1 | 📅 2022-03-31)*
 * [Fastify](https://github.com/fastify/fastify) ⭐ 37,026 | 🐛 128 | 🌐 JavaScript | 📅 2026-08-23 - Fast and low overhead web framework.
 * [Koa](https://github.com/koajs/koa) ⭐ 35,689 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-23 - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
-* [Hono](https://github.com/honojs/hono) ⭐ 31,917 | 🐛 362 | 🌐 TypeScript | 📅 2026-08-24 - Small and fast web framework.
+* [Hono](https://github.com/honojs/hono) ⭐ 31,919 | 🐛 362 | 🌐 TypeScript | 📅 2026-08-24 - Small and fast web framework.
 * [AdonisJs](https://github.com/adonisjs/core) ⭐ 19,099 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-21 - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 * [Feathers](https://github.com/feathersjs/feathers) ⭐ 15,266 | 🐛 126 | 🌐 TypeScript | 📅 2026-08-14 - Microservice framework built in the spirit of Express.
 * [Hapi](https://github.com/hapijs/hapi) ⭐ 14,793 | 🐛 56 | 🌐 JavaScript | 📅 2026-08-19 - Framework for building applications and services.
@@ -747,7 +747,7 @@
 
 ### Blogging
 
-* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,051 | 🐛 133 | 🌐 JavaScript | 📅 2026-08-24 - Simple, powerful publishing platform.
+* [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,051 | 🐛 132 | 🌐 JavaScript | 📅 2026-08-24 - Simple, powerful publishing platform.
 * [Hexo](https://github.com/hexojs/hexo) ⭐ 41,772 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-12 - Fast, simple and powerful blogging framework.
 
 ### Weird
